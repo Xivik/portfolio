@@ -1,0 +1,55 @@
+#arrDown {
+	font-size: 5em;
+}
+
+body{
+	background-color: white;
+}
+
+.jumbotron {
+	color: #f2f2f2;
+	background-image: url(img/background.png); 
+	background-size: cover;
+}
+
+.card {
+	background-color: #192231;
+	color: #f2f2f2;
+}
+
+.head {
+	color: #f2f2f2;
+	background-image: url(img/background.png); 
+	background-size: cover;
+}
+
+.navbar {
+	background-color: #192231 !important; 
+}
+
+.ab {
+	background-color: #192231;
+	color: #f2f2f2;	
+}
+
+.imga {
+	float: left;
+}
+
+.icon {
+  height: 2em;
+  width: 2em;
+}
+
+h4 {
+	text-align: center;
+}
+
+.page-footer {
+	background-color: #192231;
+	color: #f2f2f2;		
+}
+/* #6e6e6 silver
+	#192231 dark blue */   	
+
+
